@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Crown of thorns starfish","category":"Mauv"},
+{"id":2,"name":"Bohor reedbuck","category":"Pink"},
+{"id":3,"name":"White rhinoceros","category":"Khaki"},
+{"id":4,"name":"Meerkat, red","category":"Violet"},
+{"id":5,"name":"Bettong, brush-tailed","category":"Green"},
+{"id":6,"name":"Western pygmy possum","category":"Yellow"},
+{"id":7,"name":"Kangaroo, jungle","category":"Red"},
+{"id":8,"name":"Pied kingfisher","category":"Blue"},
+{"id":9,"name":"Indian tree pie","category":"Turquoise"},
+{"id":10,"name":"Raven, white-necked","category":"Pink"},
+{"id":11,"name":"Red-knobbed coot","category":"Mauv"},
+{"id":12,"name":"Elk, Wapiti","category":"Khaki"},
+{"id":13,"name":"White-nosed coatimundi","category":"Teal"},
+{"id":14,"name":"African skink","category":"Puce"},
+{"id":15,"name":"Marmot, yellow-bellied","category":"Mauv"},
+{"id":16,"name":"Giant otter","category":"Maroon"},
+{"id":17,"name":"Red-billed buffalo weaver","category":"Violet"},
+{"id":18,"name":"Badger, honey","category":"Puce"},
+{"id":19,"name":"Common raccoon","category":"Turquoise"},
+{"id":20,"name":"River wallaby","category":"Puce"}
+]
+}
